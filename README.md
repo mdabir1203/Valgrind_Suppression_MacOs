@@ -19,7 +19,8 @@ Then after using the suppression with the command above you will see the output 
 Pasted image 20230517114825.png]]
 
 ## How to Run ?
-
+- Clone the repo
+- Copy the `ignore_readline.supp` file to your Project folder 
 - run ```valgrind --leak-check=full --show-leak-kinds=all --track-origins=yes --suppressions=ignore_readline.supp -s ./program_name```
 - Check the output
 
