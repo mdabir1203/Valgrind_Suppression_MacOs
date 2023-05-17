@@ -26,4 +26,4 @@ Pasted image 20230517114825.png]]
 
 ## Feedbacks 
 
-If you have trouble or want to add to the feedbacks let us know :) 
+If you face bugs or want to add something to this let us know :) 
